@@ -15,6 +15,12 @@ body {
     margin-left: 20px;
 }
 
+.navbar-text {
+    display: block;
+    color: black;
+    text-align: right;
+}
+
 #title {
     position: absolute;
     text-align: center;
@@ -27,9 +33,10 @@ body {
     transform: translate(-50%, -50%);
 }
 
-#about p {
-    text-align: left;
-    margin-left: 30%;
+.card {
+    margin: 0 auto;
+    float: none;
+    color: black;
 }
 
 #image1 {
@@ -62,7 +69,8 @@ body {
 
 .container h2 {
     text-align: center;
-    margin-top: 100px;
+    margin-top: 50px;
+    margin-bottom: 100px;
 }
 
 #links {
