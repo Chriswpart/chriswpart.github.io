@@ -39,24 +39,6 @@ body {
     color: black;
 }
 
-#image1 {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 50px;
-    width: 250px;
-}
-
-#portfolio p {
-    text-align: left;
-    margin-left: 30%;
-}
-
-#list {
-    text-align: left;
-    margin-left: 30%;
-}
-
 .container {
     position: relative;
     text-align: center;
@@ -78,7 +60,7 @@ body {
     width: 500px;
     height: 50px;
     background: white;
-    margin-top: 200px;
+    margin-top: 100px;
 }
 
 #links a {
