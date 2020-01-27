@@ -98,6 +98,11 @@ body {
     margin-left: 30%;
 }
 
+#list {
+    text-align: left;
+    margin-left: 30%;
+}
+
 #resume {
     position: relative;
     text-align: center;
