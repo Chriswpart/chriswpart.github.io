@@ -67,3 +67,13 @@ footer {
     position: relative;
     text-align: center;
 }
+
+.navbar-nav li a {
+    background: white !important;
+    color: black !important;
+} 
+
+.navbar-text {
+    background: white !important;
+    color: black !important;
+} 
