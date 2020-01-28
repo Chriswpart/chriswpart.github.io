@@ -15,12 +15,6 @@ body {
     margin-left: 20px;
 }
 
-.navbar-text {
-    display: block;
-    color: black;
-    text-align: right;
-}
-
 #title {
     position: absolute;
     text-align: center;
@@ -42,6 +36,7 @@ body {
 .container {
     position: relative;
     text-align: center;
+    float: none;
     margin: 0 auto;
     margin-top: 100px;
     padding-top: 100px;
